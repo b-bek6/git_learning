@@ -1,9 +1,3 @@
 Hi my name is bibek.
 hi this will be second commit
-<<<<<<< HEAD
-This changes is made to the feature 1 branch.
-HI this is the second commit.
-=======
-Every data that is present here is inside the feature one and this
-is only going to the main file if it is ok go run if its run properly.
->>>>>>> feature-1
+Bibek.
